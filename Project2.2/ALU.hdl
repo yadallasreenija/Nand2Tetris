@@ -46,5 +46,4 @@ CHIP ALU {
     Not(in=or3,out=zr);
 
 }
-/***/
 
