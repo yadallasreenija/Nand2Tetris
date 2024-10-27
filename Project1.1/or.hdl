@@ -7,4 +7,3 @@ CHIP Or {
     Not(in=b,out=notb);
     Nand(a=nota,b=notb,out=out);
 }
-/***/
