@@ -8,4 +8,3 @@ CHIP Mux {
     And(a=b,b=sel,out=bsel);
     Or(a=anotsel,b=bsel,out=out);
 }
-/***/
